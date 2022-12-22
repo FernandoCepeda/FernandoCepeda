@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some personal proyects**
 
-- 🌱 I’m currently learning **fullstack on launchx latam**
+- 🌱 I’m currently learning **Fullstack on launchx latam and Alura Latam from Oracle**
 
 - 📫 How to reach me **fercho.cepeda.fc@gmail.com**
 
